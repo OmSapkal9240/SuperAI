@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartRx – AI Pharmacist",
+  "description": "A production-grade conversational AI pharmacist for seamless medicine refills and health assistance in English, Hindi, and Hinglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
